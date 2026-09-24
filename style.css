@@ -38,11 +38,11 @@ hr {
     margin: 1.5rem 0;
 }
 
-background-color: #7c3aed; /* змініть зелений #059669 на фіолетовий */
+.status-badge {
     display: inline-block;
     margin-top: 1.5rem;
     padding: 0.5rem 1rem;
-    background-color: #059669;
+    background-color: #7c3aed; /* Фіолетовий колір */
     color: #ffffff;
     border-radius: 20px;
     font-weight: bold;
